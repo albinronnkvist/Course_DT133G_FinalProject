@@ -4,7 +4,7 @@ For the final project, I collaborated with [Piran Amedi](https://github.com/amed
 
 - Thesis: The thesis is available in the [Thesis.pdf](./Thesis.pdf) file and will soon be available on [DiVa Portal](https://www.diva-portal.org/smash/search.jsf?dswid=640).
 - Thesis Poster: A short summary of the thesis can be viewed in the [ThesisPoster.pdf](./ThesisPoster.pdf) file.
-- Video Presentation: View the [Short Video (1min)](./VideoPresentation-1min.mp4) or the Long Video (10min, coming soon...).
+- Video Presentation: View the [Short Video (1min)](./VideoPresentation-1min.mp4) or the [Long Video (10min)](VideoPresentation-10min.mp4).
 
 ## Artifacts
 
