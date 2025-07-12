@@ -3,7 +3,8 @@
 For the final project, I collaborated with [Piran Amedi](https://github.com/amedipiran) to write a thesis on **Addressing the Testing Gap in PL-IaC: A Case Study on Pulumi .NET**. 
 
 - Thesis: The thesis is available in the [Thesis.pdf](./Thesis.pdf) file and will soon be available on [DiVa Portal](https://www.diva-portal.org/smash/search.jsf?dswid=640).
-- Thesis Poster: The thesis poster can 
+- Thesis Poster: A short summary of the thesis can be viewed in the [ThesisPoster.pdf](./ThesisPoster.pdf) file.
+- Video Presentation: Coming soon... View the Short Video (1min) or the Long Video (10min).
 
 ## Artifacts
 
